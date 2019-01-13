@@ -22,7 +22,7 @@ canvas {
   color: white;
   font-family: 'Times New Roman', Times, serif;
   font-size: xx-large;
-  display: inline-block;
   position: relative;
   left:35%;
+  top:50%;
 }
